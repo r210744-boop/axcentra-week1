@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Learning React",
+    "category": "Programming",
+    "content": "React makes building UI easy."
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Basics",
+    "category": "Programming",
+    "content": "JavaScript is the language of the web."
+  },
+  {
+    "id": 3,
+    "title": "Travel Blog",
+    "category": "Lifestyle",
+    "content": "Traveling opens new experiences."
+  },
+  {
+    "id": 4,
+    "title": "Healthy Life",
+    "category": "Health",
+    "content": "Exercise and diet improve health."
+  }
+]
